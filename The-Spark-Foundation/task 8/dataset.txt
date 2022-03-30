@@ -1,0 +1,1 @@
+ "http://covidtracking.com/api/states/daily.csv"
